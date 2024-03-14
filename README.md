@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate Deep Learning developer</h3>
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh6415" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh6415" alt="anirudh6415" /></a> </p>
