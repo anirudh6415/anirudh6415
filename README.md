@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate Deep Learning developer</h3>
 <p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
