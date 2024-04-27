@@ -8,17 +8,16 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-- 🔭 Master's student in **Robotics and Autonomous Systems, specializing in Artificial Intelligence at Arizona State University.**
 
-- 👯 I design, architect, and implement **machine learning and data science projects in my day job**
+<ul>
+  <li>🔭 Master's student in <strong>Robotics and Autonomous Systems, specializing in Artificial Intelligence</strong> at Arizona State University.</li>
+  <li>👯 I design, architect, and implement <strong>machine learning and data science projects</strong> in my day job.</li>
+  <li>🤝 I'm open to collaborating on exciting ideas, <strong>particularly on the NLP and Machine Learning projects.</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://anirudh6415.github.io/projects/">https://anirudh6415.github.io/projects/</a></li>
+  <li>📫 How to reach me: <strong>akaniyar@asu.edu</strong></li>
+  <li>⚡ Apart from tech, <strong>I find joy in baking and cooking, seeing it as a scientific process that brings happiness.</strong></li>
+</ul>
 
-- 🤝I'm open to collaborating on exciting ideas, **particularly on the NLP and Machine Learningprojects.**
-
-- 👨‍💻 All of my projects are available at [https://anirudh6415.github.io/projects/](https://anirudh6415.github.io/projects/)
-
-- 📫 How to reach me **akaniyar@asu.edu**
-
-- ⚡ Apart from tech, **I find joy in baking and cooking, seeing it as a scientific process that brings happiness.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh6415" /> </p>
 
 <h3 align="left">Connect with me:</h3>
