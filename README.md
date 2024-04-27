@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi 👋, I'm Anirudh</h1>--!>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4907&pause=1000&color=000000&center=true&multiline=true&random=true&width=435&lines=Hi+I'm+Anirudh+" alt="Typing SVG" /></a>
-<h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=true&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40vgnshiyer" alt="Typing SVG" /></h1>
+
 <h3 align="center">A passionate Deep Learning developer</h3>
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
