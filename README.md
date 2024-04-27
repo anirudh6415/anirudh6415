@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Anirudh</h1>--!>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4907&pause=1000&color=000000&center=true&multiline=true&random=true&width=435&lines=Hi+I'm+Anirudh+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4907&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Anirudh+" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate Deep Learning developer</h3>
 <p align="center">
