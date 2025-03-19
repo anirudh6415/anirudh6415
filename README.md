@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh6415" /> </p>
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudhiyengar-kn)
 
 [![Website](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://anirudh6415.github.io/)
