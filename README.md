@@ -18,14 +18,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-iyengar) [![GitHub](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://anirudh6415.github.io/) [![Medium](https://img.shields.io/badge/Medium-%2312102A.svg?logo=medium&logoColor=white)](https://medium.com/@anirudh6415) [![Profile Views](https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anirudh6415)
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anirudhiyengar-kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudhiyengar-kn" height="30" width="40" /></a>
-</p>
 <a href="https://www.buymeacoffee.com/akaniyarp"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=akaniyarp&button_colour=000000&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 <!--<iframe src="https://giphy.com/embed/kmIZ4lx2ZHpr5jY0W4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/buymeacoffee-buy-me-a-coffee-support-im-on-kmIZ4lx2ZHpr5jY0W4">via GIPHY</a></p>--!>
 
 <h3 align="left">Languages and Tools:</h3>
