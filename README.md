@@ -13,12 +13,12 @@
   <li>🤝 I'm open to collaborating on exciting ideas, <strong>particularly on NLP, Machine Learning, and Computer Vision projects.</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://anirudh6415.github.io/">my portfolio</a>.</li>
 </ul>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh6415" /> </p>
 ### 💬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-iyengar) [![GitHub](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://anirudh6415.github.io/) [![Medium](https://img.shields.io/badge/Medium-%2312102A.svg?logo=medium&logoColor=white)](https://medium.com/@anirudh6415)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh6415" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
