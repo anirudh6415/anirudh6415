@@ -28,12 +28,12 @@
 
 
 
-
+<h5 align="left">🏆 GitHub Trophies:</h5>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh6415&no-bg=true" alt="anirudh6415" /></a> </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh6415&show_icons=true&locale=en&layout=compact" alt="anirudh6415" /></p>-->
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h5 align="left">📊 GitHub Stats:</h5>
 <table>
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh6415&show_icons=true&locale=en&layout=compact" alt="anirudh6415" /></td>
