@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh6415&show_icons=true&locale=en&layout=compact" alt="anirudh6415" /></td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anirudh6415&show_icons=true&theme=transparent" alt="Anirudh's GitHub stats" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anirudh6415&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Anirudh's GitHub stats" /></td>
   </tr>
 </table>
 
