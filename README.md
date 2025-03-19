@@ -36,7 +36,7 @@
 <h5 align="left">📊 GitHub Stats:</h5>
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh6415&show_icons=true" alt="anirudh6415" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh6415&show_icons=true&layout=donut" alt="anirudh6415" /></td>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anirudh6415&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Anirudh's GitHub stats" /></td>
   </tr>
 </table>
