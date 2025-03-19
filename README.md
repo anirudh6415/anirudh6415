@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-  <li>🔭 Master's student in <strong>Robotics and Autonomous Systems, specializing in Artificial Intelligence</strong> at Arizona State University.</li>
+  <li>🔭 Recent graduate in <strong>Robotics and Autonomous Systems, specializing in Artificial Intelligence</strong> from Arizona State University.</li>
   <li>👯 I design, architect, and implement <strong>machine learning and data science projects</strong> in my day job.</li>
   <li>🤝 I'm open to collaborating on exciting ideas, <strong>particularly on NLP, Machine Learning, and Computer Vision projects.</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://anirudh6415.github.io/">my portfolio</a>.</li>
