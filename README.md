@@ -1,4 +1,3 @@
-<!--<h1 align="center">Hi 👋, I'm Anirudh</h1>--!>
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4907&pause=900&color=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Anirudh+" alt="Typing SVG" /></h1>
 
 <h3 align="center">A passionate Deep Learning developer</h3>
@@ -8,14 +7,11 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-
 <ul>
   <li>🔭 Master's student in <strong>Robotics and Autonomous Systems, specializing in Artificial Intelligence</strong> at Arizona State University.</li>
   <li>👯 I design, architect, and implement <strong>machine learning and data science projects</strong> in my day job.</li>
-  <li>🤝 I'm open to collaborating on exciting ideas, <strong>particularly on the NLP and Machine Learning projects.</strong></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://anirudh6415.github.io/projects/">https://anirudh6415.github.io/projects/</a></li>
-  <li>📫 How to reach me: <strong>akaniyar@asu.edu</strong></li>
-  <li>⚡ Apart from tech, <strong>I find joy in baking and cooking, seeing it as a scientific process that brings happiness.</strong></li>
+  <li>🤝 I'm open to collaborating on exciting ideas, <strong>particularly on NLP, Machine Learning, and Computer Vision projects.</strong></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://anirudh6415.github.io/">my portfolio</a>.</li>
 </ul>
 
 ### 💬 Let's Connect:
