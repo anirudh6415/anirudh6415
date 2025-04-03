@@ -15,7 +15,7 @@
 </ul>
 
 ### 💬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-iyengar) [![GitHub](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://anirudh6415.github.io/) [![Medium](https://img.shields.io/badge/Medium-%2312102A.svg?logo=medium&logoColor=white)](https://medium.com/@anirudh6415) [![Profile Views](https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anirudh6415)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-iyengar) [![GitHub](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?logo=blogger&logoColor=white)](https://anirudh6415.github.io/) [![Medium](https://img.shields.io/badge/Medium-%2312102A.svg?logo=medium&logoColor=white)](https://medium.com/@akaniyar) [![Profile Views](https://komarev.com/ghpvc/?username=anirudh6415&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/anirudh6415)
 
 
 <a href="https://www.buymeacoffee.com/akaniyarp"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=akaniyarp&button_colour=000000&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
